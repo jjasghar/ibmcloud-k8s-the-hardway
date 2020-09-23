@@ -27,11 +27,11 @@ I hope this will help someone in the future!
 
 Time: 1400 CDT || 1900 UTC 
 
-|Date|Video|
-|---|---|
-|Sept 17th|   |
-|Sept 24th|   |
-|Oct 1st  |   |
+|Date|Video|Notes|
+|---|---|---|
+|Sept 17th| <https://www.youtube.com/watch?v=MiwJeYmaskw> | TBD |
+|Sept 24th|   | |
+|Oct 1st  |   | |
 
 
 ## License and Author(s)
